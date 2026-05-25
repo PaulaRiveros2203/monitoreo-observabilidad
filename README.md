@@ -6,9 +6,8 @@ Sistema completo de monitoreo usando **Prometheus** y **Grafana** para una API R
 
 ## 👤 Información del Estudiante
 
-- **Nombre:** [Tu nombre completo aquí]
-- **Código:** [Tu código de estudiante aquí]
-- **Repositorio:** [URL del repositorio]
+- **Nombre:** Maria Paula Riveros
+- **Código:** 202311005601
 - **Video:** [URL del video demostrativo]
 
 ---
